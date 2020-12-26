@@ -46,7 +46,7 @@ function Details({Image}) {
 			<Grid>
 				<Card className={classes.card}>
 					<CardActionArea>
-						<CardMedia className={classes.media} image='http://www.chakolaspavilion.com/images/halls/grand-ball-room-strip.jpg' title='Event' />
+						<CardMedia className={classes.media} image='https://chakolas.github.io/images/gbr.jpg' title='Event' />
 					</CardActionArea>
 					</Card>
 					</Grid>
